@@ -91,9 +91,7 @@ export const footerLinks = [
         title: "Products",
         links: [
             { name: "Sky Mack 1", link: "/" },
-            { name: "Sky Load 1", link: "/" },
-            { name: "Sky Jordan 1", link: "/" },
-            { name: "Sky Mack 2", link: "/" },
+            { name: "Sky Load 2", link: "/" },
             { name: "Jolt Waffle Racer", link: "/" },
             { name: "Jolt Cortez", link: "/" },
         ],
